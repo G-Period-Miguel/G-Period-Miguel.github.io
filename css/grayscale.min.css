@@ -126,6 +126,7 @@ a:focus, a:hover {
   color: white;
   background: url("../img/ishan for president.jpg") no-repeat bottom center scroll;
   background-color: black;
+  background-size: 300px 200px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
